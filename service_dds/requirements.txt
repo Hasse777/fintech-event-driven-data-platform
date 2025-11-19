@@ -1,0 +1,5 @@
+APScheduler
+confluent_kafka
+flask
+psycopg
+pydantic
